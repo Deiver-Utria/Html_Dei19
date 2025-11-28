@@ -12,11 +12,11 @@ Este proyecto se genero para implementar una pagina con html y css y repositorio
 
 ## requisitos <!--seccion donde ser espeficia que requerimos debe tener el usuario -->
 No se requiere dependencias externas
-## Tecnolohi
+## Tecnologi
 - Html
 - -Css
 
-## Cntribuciones 
+## Contribuciones 
 
 las contribuciones son bienvenidas, si desea participar
 1. Realiza un fox dell proyecyo
@@ -28,4 +28,5 @@ las contribuciones son bienvenidas, si desea participar
 Este proyecto esta bajo la licencia MIT
 
 ## Seccion repo remoto
+
 
