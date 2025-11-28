@@ -6,8 +6,7 @@ Este proyecto se genero para implementar una pagina con html y css y repositorio
 - style.css
 
 ## como ejecutar el proyecto
-1. clonar el repositorio
-    git clone https://github.com/Deiver-Utria/Html_Dei19.git
+1. clonar el repositorio    git clone https://github.com/Deiver-Utria/Html_Dei19.git
 2. Abre el archivo intex.html en su navegador
 
 ## requisitos <!--seccion donde ser espeficia que requerimos debe tener el usuario -->
