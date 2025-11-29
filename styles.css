@@ -16,7 +16,54 @@ body{
 /* estilo para el encabezado en degradado*/
 .site-header{
     background: linear-gradient(90deg, #c0c0c0, #faebd7);
-    color: #eee8aa;
+    color: #262626;
     padding: 20px;
     text-align: center;
+}
+
+.subtitle{
+    opacity: 50%;
+}
+
+.content{
+    display: flex; /* coloca las tarjetas una al lado de la otra*/
+    gap: 3rem; /* seprar las tarjetas*/
+    flex-wrap: wrap; /* permite que las tarjetas bajen si no caben */
+    justify-content: center;
+    padding: 2rem;
+}
+
+.card{
+    background: #fefce8 ;
+    padding: 1.25rem;
+    border-radius: 22px;
+    box-shadow: 0.6px 18px rgba(189, 191, 203, 0.418); /* dar produndida de la tarjeta */
+    width: 300px;
+}
+
+.card p{
+    margin-bottom: 1rem;
+    color: rgb(#a4f4cf)
+
+}
+
+.btn{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #a4f4cf;
+    border-radius: 22px;
+    color: #0703f0;
+
+}
+
+.card a{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.site-footer{
+    text-align: center;
+    padding: 1rem;
+    color: #0703f0;
 }
